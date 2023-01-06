@@ -40,6 +40,8 @@ To get the climate information, as mentioned above, we need to use an API. To do
 
 After you have created the above accounts, let's create the bot itself. Inside Telegram, open a conversation with [@BotFather](https://t.me/BotFather) and create a bot with the command ```/newbot```. Next, enter the name and username of your bot.
 
+https://user-images.githubusercontent.com/58787069/211084294-d790a93c-3e51-4b86-a71c-47372f0f9708.mp4
+
 If all went well, you will receive a message with your bot's token similar to this one: ```2763282781:AAEnulN_nH9f2Sr2j_vl5mi8Fw9XskzLf4s```.
 
 Now, navigate to the [RapidAPI](https://rapidapi.com/) site, search for [Visual Crossing Weather](https://rapidapi.com/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather/) (or click next to it), and click "Subscribe to Test".
@@ -81,7 +83,9 @@ Finally, inside [Telegram](https://telegram.org/), search for the username of th
 
 ## Screenshot
 
-I will add some GIFs of the bot usage soon.
+The video below illustrates the conversation with the running Weather Bot.
+
+https://user-images.githubusercontent.com/58787069/211088204-d4176c8d-f092-4066-87ee-3dbce16e24b5.mp4
 
 ## Author
 
