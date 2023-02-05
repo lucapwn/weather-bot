@@ -42,11 +42,19 @@ After you have created the above accounts, let's create the bot itself. Inside T
 
 https://user-images.githubusercontent.com/58787069/211084294-d790a93c-3e51-4b86-a71c-47372f0f9708.mp4
 
-If all went well, you will receive a message with your bot's token similar to this one: ```2763282781:AAEnulN_nH9f2Sr2j_vl5mi8Fw9XskzLf4s```.
+If all went well, you will receive a message with your bot's token similar to this one:
+
+~~~bash
+2763282781:AAEnulN_nH9f2Sr2j_vl5mi8Fw9XskzLf4s
+~~~
 
 Now, navigate to the [RapidAPI](https://rapidapi.com/) site, search for [Visual Crossing Weather](https://rapidapi.com/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather/) (or click next to it), and click "Subscribe to Test".
 
-Finally, under "Header Parameters" you will see your X-RapidAPI-Key similar to this one: ```4999cb7e22mkh7491sba992e1f76px63690jsnfedaeadzf15x```.
+Finally, under "Header Parameters" you will see your X-RapidAPI-Key similar to this one:
+
+~~~bash
+4999cb7e22mkh7491sba992e1f76px63690jsnfedaeadzf15x
+~~~
 
 ### Saving the tokens
 
@@ -75,7 +83,7 @@ Run the main file:
 foo@bar:~$ python3 ./main.py
 ~~~
 
-If all goes well, you will see a success message. That's it!
+If all goes well, you will see a success message. That's it! :)
 
 ### Getting weather information
 
